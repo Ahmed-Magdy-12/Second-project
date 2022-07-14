@@ -1,0 +1,20 @@
+.card{
+    background-color: #ccc;
+    color: white;
+}
+body{
+    background-color: black ;
+}
+.none{
+    display: none;
+}
+.checked{
+    background-color: gray;
+    text-decoration: line-through;
+}
+.con{
+    display: none;
+}
+.block{
+    display: block;
+}
